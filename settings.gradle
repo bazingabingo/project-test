@@ -1,0 +1,4 @@
+rootProject.name = 'project-test'
+include 'base-test'
+include 'algo-test'
+

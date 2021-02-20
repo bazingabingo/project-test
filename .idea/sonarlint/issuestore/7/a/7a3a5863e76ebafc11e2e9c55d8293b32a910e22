@@ -1,0 +1,9 @@
+
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÔÁ¤ó8©ÓäÌû.
+]	java:S125"<This block of commented-out lines of code should be removed.(—¶™Æùÿÿÿÿ8‡•èÌû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔâºÍ8È¼ÃÌû.
+Z
+java:S1144"8Remove this unused private "constitute100Money1" method.(¤Ç‡ıÿÿÿÿ8§ôòÌû.
+U
+java:S1144!"8Remove this unused private "constitute100Money2" method.(øÍ­ı8°‹ÙĞû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÙ™8°‹ÙĞû.

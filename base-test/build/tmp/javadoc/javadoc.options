@@ -1,0 +1,7 @@
+-classpath 'C:\\gitSource\\test\\project-test\\base-test\\build\\classes\\java\\main;C:\\gitSource\\test\\project-test\\base-test\\build\\resources\\main;C:\\MyInstall\\gradle-6.6.1\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\5.2.12.RELEASE\\5367bc834a5abe58b7b75ac30daa2a032940b6ed\\spring-web-5.2.12.RELEASE.jar;C:\\MyInstall\\gradle-6.6.1\\caches\\modules-2\\files-2.1\\org.springframework\\spring-beans\\5.2.12.RELEASE\\d3c571e7128fec6947cb93bd539fe07fd9084a7b\\spring-beans-5.2.12.RELEASE.jar;C:\\MyInstall\\gradle-6.6.1\\caches\\modules-2\\files-2.1\\org.springframework\\spring-core\\5.2.12.RELEASE\\7009756207a1f1e4d990d4a89c3b1e50d69a626\\spring-core-5.2.12.RELEASE.jar;C:\\MyInstall\\gradle-6.6.1\\caches\\modules-2\\files-2.1\\org.springframework\\spring-jcl\\5.2.12.RELEASE\\b8736a2e618cfa5e4237bf2cc48f52114f4f511c\\spring-jcl-5.2.12.RELEASE.jar'
+-d 'C:\\gitSource\\test\\project-test\\base-test\\build\\docs\\javadoc'
+-doctitle 'base-test 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'base-test 1.0-SNAPSHOT API'
+'C:\\gitSource\\test\\project-test\\base-test\\src\\main\\java\\com\\bazinga\\spring\\BaseTestServiceApplication.java'
